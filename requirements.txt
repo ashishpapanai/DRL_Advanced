@@ -1,0 +1,10 @@
+atari-py
+autopep8
+gym
+opencv-python
+pip-chill
+ptan
+pytorch-ignite
+tensorboardx
+tensorflow
+torchvision
