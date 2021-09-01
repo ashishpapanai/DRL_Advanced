@@ -4,7 +4,9 @@ gym
 opencv-python
 pip-chill
 ptan
+pyglet
 pytorch-ignite
 tensorboardx
 tensorflow
+torchaudio
 torchvision
